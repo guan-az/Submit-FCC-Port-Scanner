@@ -1,0 +1,656 @@
+gitpod /workspace/boilerplate-port-scanner (main) $ python main.py
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 75
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 76
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 77
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 78
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 79
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 80
+!!!!! >>>> OPEN PORT: 80
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 81
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 82
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 83
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 84
+Target Host: www.freecodecamp.org
+Attempting to connect to Port: 85
+Open ports: [80] 
+
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8079
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8080
+!!!!! >>>> OPEN PORT: 8080
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8081
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8082
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8083
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8084
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8085
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8086
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8087
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8088
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8089
+Target Host: 104.26.10.78
+Attempting to connect to Port: 8090
+Open ports: [8080] 
+
+Target Host: 104.26.10.78
+Attempting to connect to Port: 440
+Target Host: 104.26.10.78
+Attempting to connect to Port: 441
+Target Host: 104.26.10.78
+Attempting to connect to Port: 442
+Target Host: 104.26.10.78
+Attempting to connect to Port: 443
+!!!!! >>>> OPEN PORT: 443
+Target Host: 104.26.10.78
+Attempting to connect to Port: 444
+Target Host: 104.26.10.78
+Attempting to connect to Port: 445
+Target Host: 104.26.10.78
+Attempting to connect to Port: 446
+Target Host: 104.26.10.78
+Attempting to connect to Port: 447
+Target Host: 104.26.10.78
+Attempting to connect to Port: 448
+Target Host: 104.26.10.78
+Attempting to connect to Port: 449
+Target Host: 104.26.10.78
+Attempting to connect to Port: 450
+Open ports for 104.26.10.78
+PORT     SERVICE
+443      https 
+
+Target Host: 137.74.187.104
+Attempting to connect to Port: 440
+Target Host: 137.74.187.104
+Attempting to connect to Port: 441
+Target Host: 137.74.187.104
+Attempting to connect to Port: 442
+Target Host: 137.74.187.104
+Attempting to connect to Port: 443
+!!!!! >>>> OPEN PORT: 443
+Target Host: 137.74.187.104
+Attempting to connect to Port: 444
+Target Host: 137.74.187.104
+Attempting to connect to Port: 445
+Target Host: 137.74.187.104
+Attempting to connect to Port: 446
+Target Host: 137.74.187.104
+Attempting to connect to Port: 447
+Target Host: 137.74.187.104
+Attempting to connect to Port: 448
+Target Host: 137.74.187.104
+Attempting to connect to Port: 449
+Target Host: 137.74.187.104
+Attempting to connect to Port: 450
+Open ports for hackthissite.org (137.74.187.104)
+PORT     SERVICE
+443      https 
+
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 20
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 21
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 22
+!!!!! >>>> OPEN PORT: 22
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 23
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 24
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 25
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 26
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 27
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 28
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 29
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 30
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 31
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 32
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 33
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 34
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 35
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 36
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 37
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 38
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 39
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 40
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 41
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 42
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 43
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 44
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 45
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 46
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 47
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 48
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 49
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 50
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 51
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 52
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 53
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 54
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 55
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 56
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 57
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 58
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 59
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 60
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 61
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 62
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 63
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 64
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 65
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 66
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 67
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 68
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 69
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 70
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 71
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 72
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 73
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 74
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 75
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 76
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 77
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 78
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 79
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 80
+!!!!! >>>> OPEN PORT: 80
+Open ports for scanme.nmap.org (45.33.32.156)
+PORT     SERVICE
+22       ssh
+80       http 
+
+***Tests***
+Target Host: scanme.nmap
+Attempting to connect to Port: 22
+Target Host: scanme.nmap
+Attempting to connect to Port: 23
+Target Host: scanme.nmap
+Attempting to connect to Port: 24
+Target Host: scanme.nmap
+Attempting to connect to Port: 25
+Target Host: scanme.nmap
+Attempting to connect to Port: 26
+Target Host: scanme.nmap
+Attempting to connect to Port: 27
+Target Host: scanme.nmap
+Attempting to connect to Port: 28
+Target Host: scanme.nmap
+Attempting to connect to Port: 29
+Target Host: scanme.nmap
+Attempting to connect to Port: 30
+Target Host: scanme.nmap
+Attempting to connect to Port: 31
+Target Host: scanme.nmap
+Attempting to connect to Port: 32
+Target Host: scanme.nmap
+Attempting to connect to Port: 33
+Target Host: scanme.nmap
+Attempting to connect to Port: 34
+Target Host: scanme.nmap
+Attempting to connect to Port: 35
+Target Host: scanme.nmap
+Attempting to connect to Port: 36
+Target Host: scanme.nmap
+Attempting to connect to Port: 37
+Target Host: scanme.nmap
+Attempting to connect to Port: 38
+Target Host: scanme.nmap
+Attempting to connect to Port: 39
+Target Host: scanme.nmap
+Attempting to connect to Port: 40
+Target Host: scanme.nmap
+Attempting to connect to Port: 41
+Target Host: scanme.nmap
+Attempting to connect to Port: 42
+.Target Host: 266.255.9.10
+Attempting to connect to Port: 22
+Target Host: 266.255.9.10
+Attempting to connect to Port: 23
+Target Host: 266.255.9.10
+Attempting to connect to Port: 24
+Target Host: 266.255.9.10
+Attempting to connect to Port: 25
+Target Host: 266.255.9.10
+Attempting to connect to Port: 26
+Target Host: 266.255.9.10
+Attempting to connect to Port: 27
+Target Host: 266.255.9.10
+Attempting to connect to Port: 28
+Target Host: 266.255.9.10
+Attempting to connect to Port: 29
+Target Host: 266.255.9.10
+Attempting to connect to Port: 30
+Target Host: 266.255.9.10
+Attempting to connect to Port: 31
+Target Host: 266.255.9.10
+Attempting to connect to Port: 32
+Target Host: 266.255.9.10
+Attempting to connect to Port: 33
+Target Host: 266.255.9.10
+Attempting to connect to Port: 34
+Target Host: 266.255.9.10
+Attempting to connect to Port: 35
+Target Host: 266.255.9.10
+Attempting to connect to Port: 36
+Target Host: 266.255.9.10
+Attempting to connect to Port: 37
+Target Host: 266.255.9.10
+Attempting to connect to Port: 38
+Target Host: 266.255.9.10
+Attempting to connect to Port: 39
+Target Host: 266.255.9.10
+Attempting to connect to Port: 40
+Target Host: 266.255.9.10
+Attempting to connect to Port: 41
+Target Host: 266.255.9.10
+Attempting to connect to Port: 42
+.Target Host: 209.216.230.240
+Attempting to connect to Port: 440
+Target Host: 209.216.230.240
+Attempting to connect to Port: 441
+Target Host: 209.216.230.240
+Attempting to connect to Port: 442
+Target Host: 209.216.230.240
+Attempting to connect to Port: 443
+Target Host: 209.216.230.240
+Attempting to connect to Port: 444
+Target Host: 209.216.230.240
+Attempting to connect to Port: 445
+FTarget Host: www.stackoverflow.com
+Attempting to connect to Port: 79
+Target Host: www.stackoverflow.com
+Attempting to connect to Port: 80
+!!!!! >>>> OPEN PORT: 80
+Target Host: www.stackoverflow.com
+Attempting to connect to Port: 81
+Target Host: www.stackoverflow.com
+Attempting to connect to Port: 82
+.Target Host: scanme.nmap.org
+Attempting to connect to Port: 20
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 21
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 22
+!!!!! >>>> OPEN PORT: 22
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 23
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 24
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 25
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 26
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 27
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 28
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 29
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 30
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 31
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 32
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 33
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 34
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 35
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 36
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 37
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 38
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 39
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 40
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 41
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 42
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 43
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 44
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 45
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 46
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 47
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 48
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 49
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 50
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 51
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 52
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 53
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 54
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 55
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 56
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 57
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 58
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 59
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 60
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 61
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 62
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 63
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 64
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 65
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 66
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 67
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 68
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 69
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 70
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 71
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 72
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 73
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 74
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 75
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 76
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 77
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 78
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 79
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 80
+!!!!! >>>> OPEN PORT: 80
+.Target Host: scanme.nmap.org
+Attempting to connect to Port: 20
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 21
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 22
+!!!!! >>>> OPEN PORT: 22
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 23
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 24
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 25
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 26
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 27
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 28
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 29
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 30
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 31
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 32
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 33
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 34
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 35
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 36
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 37
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 38
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 39
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 40
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 41
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 42
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 43
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 44
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 45
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 46
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 47
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 48
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 49
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 50
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 51
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 52
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 53
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 54
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 55
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 56
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 57
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 58
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 59
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 60
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 61
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 62
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 63
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 64
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 65
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 66
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 67
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 68
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 69
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 70
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 71
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 72
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 73
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 74
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 75
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 76
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 77
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 78
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 79
+Target Host: scanme.nmap.org
+Attempting to connect to Port: 80
+!!!!! >>>> OPEN PORT: 80
+.Target Host: 137.74.187.104
+Attempting to connect to Port: 440
+Target Host: 137.74.187.104
+Attempting to connect to Port: 441
+Target Host: 137.74.187.104
+Attempting to connect to Port: 442
+Target Host: 137.74.187.104
+Attempting to connect to Port: 443
+!!!!! >>>> OPEN PORT: 443
+Target Host: 137.74.187.104
+Attempting to connect to Port: 444
+Target Host: 137.74.187.104
+Attempting to connect to Port: 445
+Target Host: 137.74.187.104
+Attempting to connect to Port: 446
+Target Host: 137.74.187.104
+Attempting to connect to Port: 447
+Target Host: 137.74.187.104
+Attempting to connect to Port: 448
+Target Host: 137.74.187.104
+Attempting to connect to Port: 449
+Target Host: 137.74.187.104
+Attempting to connect to Port: 450
+.Target Host: 104.26.10.78
+Attempting to connect to Port: 440
+Target Host: 104.26.10.78
+Attempting to connect to Port: 441
+Target Host: 104.26.10.78
+Attempting to connect to Port: 442
+Target Host: 104.26.10.78
+Attempting to connect to Port: 443
+!!!!! >>>> OPEN PORT: 443
+Target Host: 104.26.10.78
+Attempting to connect to Port: 444
+Target Host: 104.26.10.78
+Attempting to connect to Port: 445
+Target Host: 104.26.10.78
+Attempting to connect to Port: 446
+Target Host: 104.26.10.78
+Attempting to connect to Port: 447
+Target Host: 104.26.10.78
+Attempting to connect to Port: 448
+Target Host: 104.26.10.78
+Attempting to connect to Port: 449
+Target Host: 104.26.10.78
+Attempting to connect to Port: 450
+.
+======================================================================
+FAIL: test_port_scanner_ip (test_module.UnitTests.test_port_scanner_ip)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/boilerplate-port-scanner/test_module.py", line 10, in test_port_scanner_ip
+    self.assertEqual(actual, expected, 'Expected scanning ports of IP address to return [443].')
+AssertionError: Lists differ: [] != [443]
+
+Second list contains 1 additional elements.
+First extra element 0:
+443
+
+- []
++ [443] : Expected scanning ports of IP address to return [443].
+
+----------------------------------------------------------------------
+Ran 8 tests in 66.968s
+
+FAILED (failures=1)
